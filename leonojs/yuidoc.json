@@ -1,0 +1,12 @@
+{
+    "name": "Documenting Javascript libraries for TN devs",
+    "description": "A tutorial scripts, for TN",
+    "version": "1.0.0",
+    "logo":"http://next.tn.com.ar/leono/images/logo.png",
+    "url": "http://next.tn.com.ar",
+    "options": {
+        "linkNatives": "true",
+        "outdir": "/www/tn-rwd/",
+        "paths": "."
+    }
+}
